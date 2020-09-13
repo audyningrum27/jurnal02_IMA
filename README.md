@@ -1,3 +1,3 @@
-# jurnal 02 - Implementasi Algoritma
+# Jurnal 02 - Implementasi Algoritma
 <h3>Telkom University</h3>
-<p>pada repository ini mempelajari cara mempush projek java kedalam github.</p>
+<p>Repository ini mempelajari cara mempush proyek java kedalam github.</p>
